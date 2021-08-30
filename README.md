@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Lesha Fatin from Saint-P!
+- 👀 Currently studying in ITMO University

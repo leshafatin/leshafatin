@@ -1,2 +1,6 @@
 - 👋 Hi, I’m Lesha Fatin from Saint-P!
-- 👀 Currently studying in ITMO University
+- 👀 Currently studying developing skills in Frontend development 
+
+JS & TS
+React & Redux
+SCSS
